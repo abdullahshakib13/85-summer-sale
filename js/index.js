@@ -1,10 +1,4 @@
 
-// const btnDisable = document.getElementById("btn-disable");
-// if (totalPrice => 1) {
-//     btnDisable.removeAttribute('disabled');
-// } else {
-//     btnDisable.setAttribute('disabled', true);
-// }
 
 var products = [];
 var discounts = 0;
